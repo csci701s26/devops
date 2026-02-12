@@ -1,5 +1,5 @@
 const add = function (x, y) {
-  return x - y;
+  return x + y;
 };
 
 const getColor1 = function () {
