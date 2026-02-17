@@ -90,11 +90,11 @@ There are various tools you can use but we're simply going to set up GitHub Acti
 
 ### Example: testing, linting and deploying a static web page.
 
-Let's go through a complete example. Here, we will write a `JavaScript` module which we will test, lint, format and finally use in a static web page. By static, we mean that the entire `HTML`/`JavaScript` application is served to the client and there is no server running on the backend. There are some tips in the slides for today if your project needs to run a server.
+Let's go through a complete example. Here, we will write a `JavaScript` module which we will test, lint, format and finally use in a static web page. By static, we mean that the entire `HTML`/`JavaScript` application is served to the client and there is no server running on the backend.
 
 #### Getting started
 
-We will follow a similar development strategy as we did last class with a slight modification so you can try out a more collaborative programming environment. Please form groups of 3. Only one person should perform the following four steps while the others wait for a link in Slack:
+We will follow a similar development strategy as we did last class with a slight modification so you can try out a more collaborative programming environment. Please form groups of 2. Only one person should perform the following four steps while the other group member waits for a link in Slack:
 
 1. Navigate to https://github.com/csci701s26/devops and click on the **Code** button, then the **Codespaces** tab and finally **Create a codespace on main**.
 2. In the left pane in the VS Code Editor, click on the Extensions, then search for "Live Share" and install the extension.
