@@ -8,7 +8,7 @@ const getColor1 = function () {
 };
 
 const getColor2 = function () {
-  let color = [255, 0, 0];
+  const color = [255, 0, 0];
   return color;
 };
 
