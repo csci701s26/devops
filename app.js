@@ -18,7 +18,7 @@ const getColor3 = function () {
 };
 
 const getColor4 = function () {
-  let color = [0, 0, 255];
+  const color = [0, 0, 255];
   return color;
 };
 
