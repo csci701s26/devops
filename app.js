@@ -13,7 +13,7 @@ const getColor2 = function () {
 };
 
 const getColor3 = function () {
-  const color = [0, 255, 0];
+  const color = [150, 0, 20];
   return color;
 };
 
